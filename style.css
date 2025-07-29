@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f4f8;
+    color: #333;
+  }
+  
+  header {
+    background-color: #0b3d91;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+  
+  section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h2 {
+    color: #0b3d91;
+    border-bottom: 2px solid #0b3d91;
+    padding-bottom: 0.5rem;
+  }
+  
+  .projects ul {
+    list-style-type: square;
+    padding-left: 1.2rem;
+  }
+  
+  .contact a {
+    color: #0b3d91;
+    text-decoration: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
